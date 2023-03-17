@@ -1,0 +1,21 @@
+Pre-Requisutes For the script:
+Sign Out of the current Amazon Account
+
+The order of the tests do not matter.
+
+The tests covered are:
+1) Add an item to card
+2) Add an item to the wishlist
+3)Create a wishlist
+4)Delete a wishlist
+5)Search the site for an item that exists
+6)Search the site for an item that does not exist
+7)Try to sign in with an invalid email
+8)Try to sign in with an invalid password
+9)Sign in with all valid credentials
+10)Signout
+
+
+Preferred order (Will be used for Demo):
+7 -> 8 -> 9 -> 6 -> 5 -> 1 -> 3 -> 2 -> 4 ->10
+Note*: No need to follow the order, each test runs individually
