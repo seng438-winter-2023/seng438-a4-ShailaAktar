@@ -20,6 +20,9 @@ Preferred order (Will be used for Demo):
 7 -> 8 -> 9 -> 6 -> 5 -> 1 -> 3 -> 2 -> 4 ->10
 Note*: No need to follow the order, each test runs individually
 
+The .side file is the entire script with all the tests, this can be imported into the Selenium IDE to run the tests individually.
+PS. The tests will not work if the Run All Tests button is clicked since they are not in order, but will work when ran individually as clearly shown in the demo.
+
 A dummy account has been created for testing purposes
 User: aqw.galanoth@gmail.com
 Pass: FinalAssignment4
